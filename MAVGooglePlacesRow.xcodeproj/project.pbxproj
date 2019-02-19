@@ -14,7 +14,6 @@
 		99B21E45221C445F00F0A7AA /* GooglePlacesCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99B21E3F221C445F00F0A7AA /* GooglePlacesCollectionCell.swift */; };
 		99B21E46221C445F00F0A7AA /* GooglePlacesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99B21E40221C445F00F0A7AA /* GooglePlacesCell.swift */; };
 		99B21E47221C445F00F0A7AA /* GooglePlacesRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99B21E41221C445F00F0A7AA /* GooglePlacesRow.swift */; };
-		FFF969CF130F235A9968D897 /* Pods_MAVGooglePlacesRow.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE2BAA8DD77629F49AEA5B85 /* Pods_MAVGooglePlacesRow.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +36,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FFF969CF130F235A9968D897 /* Pods_MAVGooglePlacesRow.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,7 +56,6 @@
 				D6EA8EC7BC7C9C2714F7349C /* Pods-MAVGooglePlacesRow.debug.xcconfig */,
 				9FA2A5E686CD6D01E9AAF575 /* Pods-MAVGooglePlacesRow.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
