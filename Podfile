@@ -8,5 +8,4 @@ target 'MAVGooglePlacesRow' do
   # Pods for MAVGooglePlacesRow
   pod 'Eureka'
   pod 'GooglePlaces'
-  pod 'GoogleMaps'
 end

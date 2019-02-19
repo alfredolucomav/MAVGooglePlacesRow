@@ -1,16 +1,11 @@
 PODS:
   - Eureka (4.3.1)
-  - GoogleMaps (3.0.2):
-    - GoogleMaps/Maps (= 3.0.2)
   - GoogleMaps/Base (3.0.2)
-  - GoogleMaps/Maps (3.0.2):
-    - GoogleMaps/Base
   - GooglePlaces (3.0.2):
     - GoogleMaps/Base (= 3.0.2)
 
 DEPENDENCIES:
   - Eureka
-  - GoogleMaps
   - GooglePlaces
 
 SPEC REPOS:
@@ -24,6 +19,6 @@ SPEC CHECKSUMS:
   GoogleMaps: 941cd655e009b4d8e42df19a3d749bc3fccec973
   GooglePlaces: c086e0055dc5f0177d7c9d65fc77a1734f9a4825
 
-PODFILE CHECKSUM: 9b63cebb0916f436f9307ba1f5c36a77929e4550
+PODFILE CHECKSUM: ddb600ab14b7ce6df2201056910cb683ad050a72
 
 COCOAPODS: 1.6.0.beta.2
