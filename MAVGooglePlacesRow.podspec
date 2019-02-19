@@ -6,9 +6,10 @@ Pod::Spec.new do |s|
   s.summary = "Google Places Row For Eureka Form Builder"
   #s.summary = "Addon from SVProgressHUD with dismiss on touch up inside the alert."
   s.requires_arc = true
+  s.static_framework = true
 
   # 2
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
 
   # 3
   #s.licence = { :type => "MIT", :file => "LICENSE" }
@@ -20,7 +21,7 @@ Pod::Spec.new do |s|
   s.homepage = "https://mavericks.cool/"
 
   # 6
-  s.source = { :git => "https://github.com/alfredolucomav/MAVGooglePlacesRow.git", :tag => "0.0.3" }
+  s.source = { :git => "https://github.com/alfredolucomav/MAVGooglePlacesRow.git", :tag => "0.0.4" }
 
   # 7
   s.ios.frameworks = 'UIKit', 'Foundation'
