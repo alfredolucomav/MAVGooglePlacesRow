@@ -32,5 +32,6 @@ Pod::Spec.new do |s|
   # 8
   s.ios.source_files = 'Sources/**/*'
 
+  s.swift_versions = ['4.2', '5.0']
 end
 
