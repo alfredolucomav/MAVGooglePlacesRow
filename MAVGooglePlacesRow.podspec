@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.static_framework = true
 
   # 2
-  s.version      = "0.0.5"
+  s.version      = "0.0.6"
 
   # 3
   #s.licence = { :type => "MIT", :file => "LICENSE" }
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.homepage = "https://mavericks.cool/"
 
   # 6
-  s.source = { :git => "https://github.com/alfredolucomav/MAVGooglePlacesRow.git", :tag => "0.0.5" }
+  s.source = { :git => "https://github.com/alfredolucomav/MAVGooglePlacesRow.git", :tag => "0.0.6" }
 
   # 7
   s.ios.frameworks = 'UIKit', 'Foundation'
